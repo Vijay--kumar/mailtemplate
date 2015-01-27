@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fullname: Kapil
+  emailaddress: kapil.chauhan@ngiventures.com
+  data: Hi this is my first template.
+
+two:
+  fullname: Sonu
+  emailaddress: sonu.chauhan@ngiventures.com
+  data: Hi this is my first template.
